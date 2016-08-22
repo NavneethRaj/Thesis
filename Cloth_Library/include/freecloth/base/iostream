@@ -1,0 +1,4 @@
+#ifndef freecloth_base_iostream
+#define freecloth_base_iostream
+#include <iostream>
+#endif

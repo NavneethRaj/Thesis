@@ -1,0 +1,4 @@
+#ifndef freecloth_base_vector
+#define freecloth_base_vector
+#include <vector>
+#endif

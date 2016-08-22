@@ -1,0 +1,9 @@
+#ifndef freecloth_base_memory
+#define freecloth_base_memory
+
+#ifndef freecloth_base_package_h
+#include <freecloth/base/package.h>
+#endif
+
+#include <memory>
+#endif

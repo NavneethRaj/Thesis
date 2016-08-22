@@ -1,0 +1,4 @@
+#ifndef freecloth_base_string
+#define freecloth_base_string
+#include <string>
+#endif

@@ -1,0 +1,4 @@
+#ifndef freecloth_base_typeinfo
+#define freecloth_base_typeinfo
+#include <typeinfo>
+#endif

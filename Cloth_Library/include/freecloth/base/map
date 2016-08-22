@@ -1,0 +1,5 @@
+#ifndef freecloth_base_map
+#define freecloth_base_map
+#include <map>
+#endif
+

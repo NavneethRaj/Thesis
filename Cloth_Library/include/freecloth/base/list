@@ -1,0 +1,4 @@
+#ifndef freecloth_base_list
+#define freecloth_base_list
+#include <list>
+#endif

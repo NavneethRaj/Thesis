@@ -1,0 +1,4 @@
+#ifndef freecloth_base_functional
+#define freecloth_base_functional
+#include <functional>
+#endif

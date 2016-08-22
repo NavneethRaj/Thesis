@@ -1,0 +1,4 @@
+#ifndef freecloth_base_iomanip
+#define freecloth_base_iomanip
+#include <iomanip>
+#endif

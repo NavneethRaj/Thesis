@@ -1,0 +1,5 @@
+#ifndef freecloth_base_set
+#define freecloth_base_set
+#include <set>
+#endif
+
